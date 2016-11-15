@@ -35,18 +35,23 @@ Now it’s your chance to try out the Stroop task for yourself. Go to this link,
 
 
 3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
-
+![alt tag](https://github.com/youngkil9999/Project1/blob/master/3-1.png)
 [Image 3-1]
+
+![alt tag](https://github.com/youngkil9999/Project1/blob/master/3-2.png)
 [Image 3-2]
 
 
 4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
 The average time took around 10~15s for the congruent and a little more than 20~25s due to the frequency of the time range 30~40s. We could say that it takes more time to take the incongruent test than the congruent test.
 
+![alt tag](https://github.com/youngkil9999/Project1/blob/master/4.png)
 [Image 4]
 
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
 
+
+![alt tag](https://github.com/youngkil9999/Project1/blob/master/5.png)
 [Image 5]
 
 Null hypotheses.
